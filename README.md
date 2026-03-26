@@ -64,6 +64,10 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
+A comprehensive overview of Generative AI and Large Language Models (LLMs) was developed, covering core concepts, model types, architectures, and modern AI tools.
+The experiment successfully demonstrates the evolution, applications, and significance of AI in generating human-like content and solving real-world problems.
 
 
 Result:
+A structured and comprehensive report on Generative AI and LLMs was successfully developed.
+Key concepts, tools, architectures, and evolution were clearly summarized.
